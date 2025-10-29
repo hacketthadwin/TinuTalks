@@ -1,6 +1,6 @@
 # System Design Document: Expo Mobile App Frontend
 
-This document provides the complete, descriptive, and verified architectural breakdown and implementation details for the two main screens of your Expo React Native application.
+This document provides the complete, descriptive, and verified architectural breakdown and implementation details for the two main screens of TinuTalks
 
 ---
 
